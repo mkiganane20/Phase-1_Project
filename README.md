@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/296e8318-0b86-41d2-80ae-da3a601c7453)# Phase-1_Project
+# Phase-1_Project
 OVERVIEW
 This project provides an analysis of aviation data and outlines key recommendations that are necessary for the strategic growth and expansion of our company into the aviation industry. This analysis majorly focuses on aircraft engine type, make, number of Engines, and incident severity, to enhance safety and risk management and aircraft maintenance. 
 BUSINESS UNDERSTANDING 
